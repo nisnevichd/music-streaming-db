@@ -17,7 +17,7 @@ A relational database project built with PostgreSQL modeling a music streaming p
 ## Tools Used
 - PostgreSQL
 - DataGrip
-- Python (pandas) — in progress
+- Python (pandas, SQLAlchemy)
 
 ## Key Findings
 - Hip-Hop is the most streamed genre with 46 streams
