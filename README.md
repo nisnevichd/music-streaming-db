@@ -28,3 +28,7 @@ A relational database project built with PostgreSQL modeling a music streaming p
 
 ## Dashboard
 [View on Tableau Public](https://public.tableau.com/views/MusicStreamingDashboard_17761323359380/Dashboard1)
+
+## Repository Contents
+- `music_streaming.sql` — schema, seed data, and analytical queries
+- `analysis.py` — Python pipeline connecting to the database via pandas and SQLAlchemy
