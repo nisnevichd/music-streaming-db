@@ -18,9 +18,13 @@ A relational database project built with PostgreSQL modeling a music streaming p
 - PostgreSQL
 - DataGrip
 - Python (pandas, SQLAlchemy)
+- Tableau
 
 ## Key Findings
 - Hip-Hop is the most streamed genre with 46 streams
 - Mobile is the most popular device but tablet users have the highest completion rate
 - Premium users stream more and complete more songs than free users
 - Monday is the most active streaming day
+
+## Dashboard
+[View on Tableau Public](https://public.tableau.com/views/MusicStreamingDashboard_17761323359380/Dashboard1)
